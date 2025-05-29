@@ -1,0 +1,28 @@
+ # Core dependencies
+torch>=2.5.1
+torchvision>=0.20.1
+torchaudio>=2.5.1
+transformers>=4.47.1
+tensorflow>=2.18.0
+keras>=3.8.0
+
+# Data processing and scientific computing
+numpy>=2.0.2
+pandas>=2.2.3
+scikit-learn>=1.6.0
+scipy>=1.14.1
+biopython>=1.85
+
+# Visualization
+matplotlib>=3.10.0
+seaborn>=0.13.2
+
+# Utilities
+tqdm>=4.67.1
+requests>=2.32.3
+PyYAML>=6.0.2
+
+# Optional: CUDA support
+# If you have NVIDIA GPU, these will be installed automatically with torch
+# nvidia-cuda-runtime-cu12>=12.4.127
+# nvidia-cudnn-cu12>=9.1.0.70
