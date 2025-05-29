@@ -82,7 +82,7 @@ This project implements two deep learning models (BERT and CNN) for antimicrobia
    ```bash
    python 4_cnn_predict.py
    ```
-   - Input file: `candicate.fasta`
+   - Input file: `AMPS_1.fasta`
    - Output file: `predictions.txt`
 
 ## Output Format
