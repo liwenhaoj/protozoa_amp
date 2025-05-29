@@ -12,8 +12,11 @@ This project implements two deep learning models (BERT and CNN) for antimicrobia
 ├── 2_bert_predict.py       # BERT model prediction script
 ├── 3_cnn_make_model.py     # CNN model training script
 ├── 4_cnn_predict.py        # CNN model prediction script
+├── AMPS_1.fasta            # Sequence file to be predicted
 ├── requirment.txt          # Project dependencies
-└── README.md              # Project documentation (Chinese)
+├── TrainingAMP_3.csv       # CNN and Bert model training input file
+└── README.md               # Project documentation (Chinese)
+
 ```
 
 ## Requirements
