@@ -25,16 +25,9 @@ This project implements two deep learning models (BERT and CNN) for antimicrobia
 ## Installation
 
 1. Clone the repository to your local machine
-2. Create and activate a virtual environment (recommended):
+2. Install dependencies:
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # Linux/Mac
-   # or
-   .\venv\Scripts\activate  # Windows
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirment.txt
+   pip install -r requirments.txt
    ```
 
 ## Model Description
