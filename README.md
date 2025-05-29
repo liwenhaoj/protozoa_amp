@@ -15,7 +15,7 @@ This project implements two deep learning models (BERT and CNN) for antimicrobia
 ├── AMPS_1.fasta            # Sequence file to be predicted
 ├── requirment.txt          # Project dependencies
 ├── TrainingAMP_3.csv       # CNN and Bert model training input file
-└── README.md               # Project documentation (Chinese)
+└── README.md               # Project documentation
 
 ```
 
