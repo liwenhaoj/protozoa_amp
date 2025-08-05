@@ -114,7 +114,7 @@ if __name__ == "__main__":
         exit(1)
 
     # 输入输出路径
-    input_fasta = r"candicate.fasta"  # 替换为你的FASTA文件路径
+    input_fasta = r"candicate.fasta" 
     output_file = "predictions.txt"  # 输出文件名
 
     # 执行预测
